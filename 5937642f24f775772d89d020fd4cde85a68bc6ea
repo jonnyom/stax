@@ -1,0 +1,37 @@
+src/tui/split_hunk/ui.rs
+  28806a08cd257d27 1-70,72-142,144-253,255-282,284-289,291-371
+src/cli.rs
+  28806a08cd257d27 544-547,1442
+src/commands/split.rs
+  28806a08cd257d27 8,34-43,45-52,59-61
+src/tui/split_hunk/diff_parser.rs
+  28806a08cd257d27 1-300
+src/tui/split_hunk/app.rs
+  28806a08cd257d27 1-496
+tests/split_hunk_tests.rs
+  28806a08cd257d27 1-83
+src/tui/split_hunk/mod.rs
+  28806a08cd257d27 1-220
+src/tui/mod.rs
+  28806a08cd257d27 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "5937642f24f775772d89d020fd4cde85a68bc6ea",
+  "prompts": {
+    "28806a08cd257d27": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "95c0519d-c615-4cdb-aefd-cca38e47a708",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jonny <jonathanomahony@gmail.com>",
+      "messages": [],
+      "total_additions": 1571,
+      "total_deletions": 69,
+      "accepted_lines": 1500,
+      "overriden_lines": 5
+    }
+  }
+}
