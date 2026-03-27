@@ -1,0 +1,27 @@
+src/tui/split_hunk/ui.rs
+  31dc24583820cf1d 78,172
+src/tui/split_hunk/diff_parser.rs
+  31dc24583820cf1d 18-29
+src/tui/split_hunk/app.rs
+  31dc24583820cf1d 117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "28ccbfc924763416a37c292edce77fe8a64aed1a",
+  "prompts": {
+    "31dc24583820cf1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1da8fa5a-d546-4184-aacf-052eae9a0f08",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jonny <jonathanomahony@gmail.com>",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 28,
+      "accepted_lines": 15,
+      "overriden_lines": 0
+    }
+  }
+}
