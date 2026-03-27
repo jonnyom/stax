@@ -1,0 +1,25 @@
+src/commands/split.rs
+  28806a08cd257d27 8,34-43,45-52,59-61
+src/cli.rs
+  28806a08cd257d27 544-547,1442
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "7b2a8b5307e86408feb71214bf6d53d7c1aa505c",
+  "prompts": {
+    "28806a08cd257d27": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "95c0519d-c615-4cdb-aefd-cca38e47a708",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jonny <jonathanomahony@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 1493,
+      "overriden_lines": 0
+    }
+  }
+}
