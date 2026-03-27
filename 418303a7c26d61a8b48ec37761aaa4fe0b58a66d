@@ -1,0 +1,27 @@
+src/tui/split_hunk/diff_parser.rs
+  28806a08cd257d27 1-300
+src/tui/split_hunk/app.rs
+  28806a08cd257d27 1-496
+src/tui/mod.rs
+  28806a08cd257d27 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "418303a7c26d61a8b48ec37761aaa4fe0b58a66d",
+  "prompts": {
+    "28806a08cd257d27": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "95c0519d-c615-4cdb-aefd-cca38e47a708",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jonny <jonathanomahony@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 1466,
+      "overriden_lines": 0
+    }
+  }
+}
