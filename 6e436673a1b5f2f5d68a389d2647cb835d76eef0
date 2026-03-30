@@ -1,0 +1,33 @@
+docs/interface/tui.md
+  100a62dc68fdc253 82-129
+src/tui/split_hunk/app.rs
+  100a62dc68fdc253 132-146,432,475
+src/tui/split_hunk/mod.rs
+  100a62dc68fdc253 33-43
+docs/commands/reference.md
+  100a62dc68fdc253 57-61
+tests/split_hunk_tests.rs
+  100a62dc68fdc253 4,20-23,89-273
+README.md
+  100a62dc68fdc253 147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "6e436673a1b5f2f5d68a389d2647cb835d76eef0",
+  "prompts": {
+    "100a62dc68fdc253": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab7dcf79-996f-4791-9cd3-37b200a2c950",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jonny <jonathanomahony@gmail.com>",
+      "messages": [],
+      "total_additions": 447,
+      "total_deletions": 195,
+      "accepted_lines": 272,
+      "overriden_lines": 0
+    }
+  }
+}
