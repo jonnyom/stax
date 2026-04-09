@@ -1,0 +1,25 @@
+src/tui/split_hunk/ui.rs
+  e4c27ff2eb885fb6 242,245,379-380
+src/tui/split_hunk/mod.rs
+  e4c27ff2eb885fb6 71-72,74-75,122,124-125,128-129,144,146-149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "9619564dc312274f5a61e028853176ad44fe25b7",
+  "prompts": {
+    "e4c27ff2eb885fb6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2375bbd1-9426-4fb7-96af-17737f7fc0b4",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jonny",
+      "messages": [],
+      "total_additions": 18,
+      "total_deletions": 11,
+      "accepted_lines": 18,
+      "overriden_lines": 0
+    }
+  }
+}
