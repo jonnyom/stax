@@ -1,0 +1,23 @@
+tests/split_hunk_tests.rs
+  e4c27ff2eb885fb6 140-144,305-447
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "3456aab30c23d1197ffffb4f81b02362e72af316",
+  "prompts": {
+    "e4c27ff2eb885fb6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2375bbd1-9426-4fb7-96af-17737f7fc0b4",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jonny",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 148,
+      "overriden_lines": 0
+    }
+  }
+}
