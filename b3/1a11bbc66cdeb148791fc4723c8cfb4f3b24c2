@@ -1,0 +1,23 @@
+src/tui/split_hunk/app.rs
+  e4c27ff2eb885fb6 420-422,425-426,429,432-433
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "b31a11bbc66cdeb148791fc4723c8cfb4f3b24c2",
+  "prompts": {
+    "e4c27ff2eb885fb6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2375bbd1-9426-4fb7-96af-17737f7fc0b4",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jonny",
+      "messages": [],
+      "total_additions": 12,
+      "total_deletions": 68,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}
